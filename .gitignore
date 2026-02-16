@@ -8,3 +8,5 @@ vistas/__pycache__/
 
 # No ignorar el archivo data.db (ubicado en la carpeta datos)
 !datos/data.db
+
+cadena_conexion.txt
